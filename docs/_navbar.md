@@ -1,2 +1,2 @@
-* [Home](/)
-* [Groups](/groups/README.md)
+* [Home](./)
+* [Groups](./groups/README.md)
