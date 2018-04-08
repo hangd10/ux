@@ -1,2 +1,2 @@
-* [Home](./)
-* [Groups](./groups/)
+* [Home](/ux/)
+* [Groups](/ux/groups/)
