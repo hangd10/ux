@@ -1,6 +1,6 @@
 # Overview
 
-One Paragraph of project description goes here
+Overview of project.... Paragraph of project description goes here
 
 ## Getting Started
 
